@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Kriordan.github.io/atom.xml" rel="self"/>
   <link href="http://Kriordan.github.io/"/>
-  <updated>2014-07-29T17:42:41-04:00</updated>
+  <updated>2014-07-30T22:35:45-04:00</updated>
   <id>http://Kriordan.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Opener]]></title>
+    <link href="http://Kriordan.github.io/blog/2014/07/30/the-opener/"/>
+    <updated>2014-07-30T17:54:22-04:00</updated>
+    <id>http://Kriordan.github.io/blog/2014/07/30/the-opener</id>
+    <content type="html"><![CDATA[<p>Forward into the past!!</p>
+]]></content>
+  </entry>
   
 </feed>
